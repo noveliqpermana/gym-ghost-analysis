@@ -31,3 +31,7 @@ Language programming being used in this project is python, with modules and pakc
 2. stats from scipy - for deep analyzing data with statistics
 3. matplotlib.pyplot - for data visualization
 4. seaborn - for data visualization
+
+## Reference
+- [Tableau Dashboard Output](https://public.tableau.com/views/GymGhostsAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Dataset source](https://www.kaggle.com/datasets/sergionefedov/gym-will-your-new-years-resolution-survive/data)
